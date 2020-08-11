@@ -1,0 +1,13 @@
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\obj\Debug\netcoreapp3.1\ExercícioUri.csprojAssemblyReference.cache
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\obj\Debug\netcoreapp3.1\ExercícioUri.AssemblyInfoInputs.cache
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\obj\Debug\netcoreapp3.1\ExercícioUri.AssemblyInfo.cs
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\obj\Debug\netcoreapp3.1\ExercícioUri.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\bin\Debug\netcoreapp3.1\ExercícioUri.exe
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\bin\Debug\netcoreapp3.1\ExercícioUri.deps.json
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\bin\Debug\netcoreapp3.1\ExercícioUri.runtimeconfig.json
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\bin\Debug\netcoreapp3.1\ExercícioUri.runtimeconfig.dev.json
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\bin\Debug\netcoreapp3.1\ExercícioUri.dll
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\bin\Debug\netcoreapp3.1\ExercícioUri.pdb
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\obj\Debug\netcoreapp3.1\ExercícioUri.dll
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\obj\Debug\netcoreapp3.1\ExercícioUri.pdb
+C:\Users\Yasmin Laiz\source\repos\ExercícioUri\ExercícioUri\obj\Debug\netcoreapp3.1\ExercícioUri.genruntimeconfig.cache
